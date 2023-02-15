@@ -1,5 +1,5 @@
 const Main = () => {
-  return <h2>홈</h2>;
+  return <h3>배포 화이팅!</h3>;
 };
 
 export default Main;
